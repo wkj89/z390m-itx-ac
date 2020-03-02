@@ -187,7 +187,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>1</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
