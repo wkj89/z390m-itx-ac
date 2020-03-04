@@ -169,7 +169,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>darkwake=10 -v</string>
+		<string>darkwake=10</string>
 		<key>CustomLogo</key>
 		<string>Theme</string>
 		<key>DefaultLoader</key>
